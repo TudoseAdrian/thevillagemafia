@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Outfit", system-ui, sans-serif;
+  --color-dark-bg: #111827;
+  --color-dark-panel: #1f2937;
+  --color-blood: #dc2626;
+}
+
+body {
+  background-color: #111827; /* Dark mode by default */
+  color: #f3f4f6;
+  font-family: "Outfit", system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

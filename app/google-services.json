@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "182136317203",
+    "firebase_url": "https://thevillagemafia-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "thevillagemafia",
+    "storage_bucket": "thevillagemafia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182136317203:android:add6d6ccb29db745c126e6",
+        "android_client_info": {
+          "package_name": "com.example.thevillage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi3ZNmgEr-MFJ-eByJNPkzejeedMFHKlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
